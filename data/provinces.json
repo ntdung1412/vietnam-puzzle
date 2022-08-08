@@ -1,0 +1,380 @@
+[
+    {
+        "id": "AnGiang",
+        "lat": 10.5,
+        "lng": 105.167,
+        "name": "An Giang"
+    },
+    {
+        "id": "BaRia-VungTau",
+        "lat": 10.583,
+        "lng": 107.25,
+        "name": "Bà Rịa - Vũng Tàu"
+    },
+    {
+        "id": "BacGiang",
+        "lat": 21.333,
+        "lng": 106.333,
+        "name": "Bắc Giang"
+    },
+    {
+        "id": "BacKan",
+        "lat": 22.167,
+        "lng": 105.833,
+        "name": "Bắc Kạn"
+    },
+    {
+        "id": "BacLieu",
+        "lat": 9.25,
+        "lng": 105.75,
+        "name": "Bạc Liêu"
+    },
+    {
+        "id": "BacNinh",
+        "lat": 21.083,
+        "lng": 106.167,
+        "name": "Bắc Ninh"
+    },
+    {
+        "id": "BenTre",
+        "lat": 10.167,
+        "lng": 106.5,
+        "name": "Bến Tre"
+    },
+    {
+        "id": "BinhDinh",
+        "lat": 14.167,
+        "lng": 109,
+        "name": "Bình Định"
+    },
+    {
+        "id": "BinhDuong",
+        "lat": 11.167,
+        "lng": 106.667,
+        "name": "Bình Dương"
+    },
+    {
+        "id": "BinhPhuoc",
+        "lat": 11.75,
+        "lng": 106.917,
+        "name": "Bình Phước"
+    },
+    {
+        "id": "BinhThuan",
+        "lat": 10.933,
+        "lng": 108.1,
+        "name": "Bình Thuận"
+    },
+    {
+        "id": "CaMau",
+        "lat": 9.083,
+        "lng": 105.083,
+        "name": "Cà Mau"
+    },
+    {
+        "id": "CanTho",
+        "lat": 10.033,
+        "lng": 105.783,
+        "name": "Cần Thơ"
+    },
+    {
+        "id": "CaoBang",
+        "lat": 22.667,
+        "lng": 106,
+        "name": "Cao Bằng"
+    },
+    {
+        "id": "DaNang",
+        "lat": 16.06944,
+        "lng": 108.20972,
+        "name": "Đà Nẵng"
+    },
+    {
+        "id": "DakLak",
+        "lat": 12.667,
+        "lng": 108.05,
+        "name": "Đắk Lắk"
+    },
+    {
+        "id": "DakNong",
+        "lat": 11.983,
+        "lng": 107.7,
+        "name": "Đắk Nông"
+    },
+    {
+        "id": "DienBien",
+        "lat": 21.383,
+        "lng": 103.017,
+        "name": "Điện Biên"
+    },
+    {
+        "id": "DongNai",
+        "lat": 11.117,
+        "lng": 107.183,
+        "name": "Đồng Nai"
+    },
+    {
+        "id": "DongThap",
+        "lat": 10.667,
+        "lng": 105.667,
+        "name": "Đồng Tháp"
+    },
+    {
+        "id": "GiaLai",
+        "lat": 13.75,
+        "lng": 108.25,
+        "name": "Gia Lai"
+    },
+    {
+        "id": "HaGiang",
+        "lat": 22.75,
+        "lng": 105,
+        "name": "Hà Giang"
+    },
+    {
+        "id": "HaNam",
+        "lat": 20.583,
+        "lng": 106,
+        "name": "Hà Nam"
+    },
+    {
+        "id": "HaNoi",
+        "lat": 21.02833,
+        "lng": 105.85417,
+        "name": "Hà Nội"
+    },
+    {
+        "id": "HaTinh",
+        "lat": 18.333,
+        "lng": 105.9,
+        "name": "Hà Tĩnh"
+    },
+    {
+        "id": "HaiDuong",
+        "lat": 20.917,
+        "lng": 106.333,
+        "name": "Hải Dương"
+    },
+    {
+        "id": "HaiPhong",
+        "lat": 20.865139,
+        "lng": 106.683833,
+        "name": "Hải Phòng"
+    },
+    {
+        "id": "HauGiang",
+        "lat": 9.783,
+        "lng": 105.467,
+        "name": "Hậu Giang"
+    },
+    {
+        "id": "HoChiMinh",
+        "lat": 10.8,
+        "lng": 106.65,
+        "name": "Hồ Chí Minh"
+    },
+    {
+        "id": "HoaBinh",
+        "lat": 20.333,
+        "lng": 105.25,
+        "name": "Hòa Bình"
+    },
+    {
+        "id": "HungYen",
+        "lat": 20.833,
+        "lng": 106.083,
+        "name": "Hưng Yên"
+    },
+    {
+        "id": "KhanhHoa",
+        "lat": 12.25,
+        "lng": 109.2,
+        "name": "Khánh Hòa"
+    },
+    {
+        "id": "KienGiang",
+        "lat": 10,
+        "lng": 105.167,
+        "name": "Kiên Giang"
+    },
+    {
+        "id": "KonTum",
+        "lat": 14.75,
+        "lng": 107.917,
+        "name": "Kon Tum"
+    },
+    {
+        "id": "LaiChau",
+        "lat": 22,
+        "lng": 103,
+        "name": "Lai Châu"
+    },
+    {
+        "id": "LamDong",
+        "lat": 11.95,
+        "lng": 108.433,
+        "name": "Lâm Đồng"
+    },
+    {
+        "id": "LangSon",
+        "lat": 21.75,
+        "lng": 106.5,
+        "name": "Lạng Sơn"
+    },
+    {
+        "id": "LaoCai",
+        "lat": 22.333,
+        "lng": 104,
+        "name": "Lào Cai"
+    },
+    {
+        "id": "LongAn",
+        "lat": 10.667,
+        "lng": 106.167,
+        "name": "Long An"
+    },
+    {
+        "id": "NamDinh",
+        "lat": 20.25,
+        "lng": 106.25,
+        "name": "Nam Định"
+    },
+    {
+        "id": "NgheAn",
+        "lat": 19.333,
+        "lng": 104.833,
+        "name": "Nghệ An"
+    },
+    {
+        "id": "NinhBinh",
+        "lat": 20.25,
+        "lng": 105.833,
+        "name": "Ninh Bình"
+    },
+    {
+        "id": "NinhThuan",
+        "lat": 11.75,
+        "lng": 108.833,
+        "name": "Ninh Thuận"
+    },
+    {
+        "id": "PhuTho",
+        "lat": 21.333,
+        "lng": 105.167,
+        "name": "Phú Thọ"
+    },
+    {
+        "id": "PhuYen",
+        "lat": 13.167,
+        "lng": 109.167,
+        "name": "Phú Yên"
+    },
+    {
+        "id": "QuangBinh",
+        "lat": 17.5,
+        "lng": 106.333,
+        "name": "Quảng Bình"
+    },
+    {
+        "id": "QuangNam",
+        "lat": 15.58333,
+        "lng": 107.91667,
+        "name": "Quảng Nam"
+    },
+    {
+        "id": "QuangNgai",
+        "lat": 15,
+        "lng": 108.667,
+        "name": "Quảng Ngãi"
+    },
+    {
+        "id": "QuangNinh",
+        "lat": 21.25,
+        "lng": 107.333,
+        "name": "Quảng Ninh"
+    },
+    {
+        "id": "QuangTri",
+        "lat": 16.75,
+        "lng": 107,
+        "name": "Quảng Trị"
+    },
+    {
+        "id": "SocTrang",
+        "lat": 9.667,
+        "lng": 105.833,
+        "name": "Sóc Trăng"
+    },
+    {
+        "id": "SonLa",
+        "lat": 21.167,
+        "lng": 104,
+        "name": "Sơn La"
+    },
+    {
+        "id": "TayNinh",
+        "lat": 11.333,
+        "lng": 106.167,
+        "name": "Tây Ninh"
+    },
+    {
+        "id": "ThaiBinh",
+        "lat": 20.5,
+        "lng": 106.333,
+        "name": "Thái Bình"
+    },
+    {
+        "id": "ThaiNguyen",
+        "lat": 21.667,
+        "lng": 105.833,
+        "name": "Thái Nguyên"
+    },
+    {
+        "id": "ThanhHoa",
+        "lat": 20,
+        "lng": 105.5,
+        "name": "Thanh Hóa"
+    },
+    {
+        "id": "ThuaThien-Hue",
+        "lat": 16.333,
+        "lng": 107.583,
+        "name": "Thừa Thiên - Huế"
+    },
+    {
+        "id": "TienGiang",
+        "lat": 10.417,
+        "lng": 106.167,
+        "name": "Tiền Giang"
+    },
+    {
+        "id": "TraVinh",
+        "lat": 9.833,
+        "lng": 106.25,
+        "name": "Trà Vinh"
+    },
+    {
+        "id": "TuyenQuang",
+        "lat": 22.117,
+        "lng": 105.25,
+        "name": "Tuyên Quang"
+    },
+    {
+        "id": "VinhLong",
+        "lat": 10.167,
+        "lng": 106,
+        "name": "Vĩnh Long"
+    },
+    {
+        "id": "VinhPhuc",
+        "lat": 21.3,
+        "lng": 105.6,
+        "name": "Vĩnh Phúc"
+    },
+    {
+        "id": "YenBai",
+        "lat": 21.5,
+        "lng": 104.667,
+        "name": "Yên Bái"
+    }
+]
